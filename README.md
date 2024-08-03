@@ -22,6 +22,7 @@
 ![Static Badge](https://img.shields.io/badge/Middle-HTML-%239553E9?logo=html5&logoColor=white)
 ![Static Badge](https://img.shields.io/badge/Middle-GitHub-%239553E9?logo=github&logoColor=white)
 ![Static Badge](https://img.shields.io/badge/Middle-Web%20Socket-%239553E9?logo=dotnet)
+![Static Badge](https://img.shields.io/badge/Middle-SignalR-%239553E9?logo=dotnet)
 ![Static Badge](https://img.shields.io/badge/Junior-MS%20SQL-%23F89901?style=plastic)
 ![Static Badge](https://img.shields.io/badge/Junior%2B-CSS-%23F89901?logo=css3&logoColor=white)
 ![Static Badge](https://img.shields.io/badge/Junior-JS-%23F89901?logo=javascript&logoColor=white)
