@@ -29,7 +29,7 @@
 ![Static Badge](https://img.shields.io/badge/Junior-linux-%23F89901?logo=linux)
 ![Static Badge](https://img.shields.io/badge/Junior-Docker-%23F89901?logo=docker)
 ![Static Badge](https://img.shields.io/badge/Junior-Docker%20Compose-%23F89901?logo=docker)
-![Static Badge](https://img.shields.io/badge/Junior-React-%23F89901?logo=react)
+![Static Badge](https://img.shields.io/badge/Junior-React%20JS-%23F89901?logo=react)
 ![Static Badge](https://img.shields.io/badge/Junior%2B-Leaflet-%23F89901?logo=leaflet)
 
 **C#, ASP.NET (MVC, WebAPI), ASP.NET Core, Xamarin, Entity Framework, LINQ, WPF, MS SQL, PostgreSQL, HTML, CSS, JS, IIS, GitHub, Linux, Docker, 
