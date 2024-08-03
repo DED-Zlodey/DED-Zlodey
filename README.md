@@ -24,7 +24,7 @@
 ![Static Badge](https://img.shields.io/badge/Middle-Web%20Socket-%239553E9?logo=dotnet)
 ![Static Badge](https://img.shields.io/badge/Junior-MS%20SQL-%23F89901?style=plastic)
 ![Static Badge](https://img.shields.io/badge/Junior%2B-CSS-%23F89901?logo=css3)
-![Static Badge](https://img.shields.io/badge/Junior--%23F89901?logo=javascript)
+![Static Badge](https://img.shields.io/badge/Junior-JS-%23F89901?logo=javascript)
 ![Static Badge](https://img.shields.io/badge/Junior-IIS-%23F89901?style=plastic)
 ![Static Badge](https://img.shields.io/badge/Junior-linux-%23F89901?logo=linux)
 ![Static Badge](https://img.shields.io/badge/Junior-Docker-%23F89901?logo=docker)
