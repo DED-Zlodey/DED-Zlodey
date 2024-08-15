@@ -6,9 +6,9 @@
 
 
 
+![2](https://github.com/user-attachments/assets/56eb7be3-ecc6-4618-9172-5822cf911912)
 
 
-![2](https://github.com/user-attachments/assets/080d0fac-50a0-4721-99cb-4dcbc8814974)
 
 #### Стек технологий:
 ![Static Badge](https://img.shields.io/badge/Middle-C%23-%239553E9?logo=dotnet)
