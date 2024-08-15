@@ -5,8 +5,10 @@
 С тех пор я углубляюсь в мир IT, изучая различные технологии и создавая приложения.
 
 
-![1](https://github.com/user-attachments/assets/86f4e989-87b1-4e73-a7a8-83e1650dcf18)
 
+
+
+![2](https://github.com/user-attachments/assets/080d0fac-50a0-4721-99cb-4dcbc8814974)
 
 #### Стек технологий:
 ![Static Badge](https://img.shields.io/badge/Middle-C%23-%239553E9?logo=dotnet)
