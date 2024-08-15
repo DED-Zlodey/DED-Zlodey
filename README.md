@@ -5,7 +5,7 @@
 С тех пор я углубляюсь в мир IT, изучая различные технологии и создавая приложения.
 
 
-![2024-08-03T050907 605127](https://github.com/user-attachments/assets/836a936d-7085-43c9-a8b7-44ef2fa7620c)
+![1](https://github.com/user-attachments/assets/86f4e989-87b1-4e73-a7a8-83e1650dcf18)
 
 
 #### Стек технологий:
